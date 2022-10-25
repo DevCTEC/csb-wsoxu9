@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devctec.github.io/csb-wsoxu9/static/css/main.e5bb13a3.chunk.css",
+    "main.js": "https://devctec.github.io/csb-wsoxu9/static/js/main.c299a7d6.chunk.js",
+    "main.js.map": "https://devctec.github.io/csb-wsoxu9/static/js/main.c299a7d6.chunk.js.map",
+    "runtime-main.js": "https://devctec.github.io/csb-wsoxu9/static/js/runtime-main.88cdfb60.js",
+    "runtime-main.js.map": "https://devctec.github.io/csb-wsoxu9/static/js/runtime-main.88cdfb60.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://devctec.github.io/csb-wsoxu9/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://devctec.github.io/csb-wsoxu9/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://devctec.github.io/csb-wsoxu9/index.html",
+    "static/css/main.e5bb13a3.chunk.css.map": "https://devctec.github.io/csb-wsoxu9/static/css/main.e5bb13a3.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://devctec.github.io/csb-wsoxu9/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88cdfb60.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.e5bb13a3.chunk.css",
+    "static/js/main.c299a7d6.chunk.js"
+  ]
+}
